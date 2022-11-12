@@ -29,10 +29,6 @@ section{
   color: #0000ff;
 }
 
-h1{
-  margin: 20px;
-  text-align: center;
-}
 h2{
   font-size: 18px;
 }
@@ -51,21 +47,4 @@ th{
 }
 td{
   padding-left: 10px;
-}
-
-.likes{
-  color: #000;
-  font-size: 20px;
-  background-color: #f5f5f5;
-  margin-top: 20px;
-}
-#my-likes, #my-dislikes{
-  color: #800080;
-}
-
-.dislikes{
-  margin-top: 20px;
-  background-color: #ffff;
-  width: 30%;
-  font-size: 20px;
 }
